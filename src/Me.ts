@@ -11,7 +11,7 @@ export default class ME implements IUser {
         country: 'India',
         org: 'None',
         likes: ['TypeScript', 'Zelda Series', 'JJBA Series', 'Well.....'],
-        hobbies: ['Reading Manga', 'Shipping', 'Music'],
+        hobbies: ['Manga', 'Shipping', 'Music'],
         reach: [
             {
                 name: contact.Discord,

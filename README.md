@@ -46,14 +46,14 @@ export default class ME implements IUser {
             homepage: 'https://www.npmjs.com/package/mywaifulist-scraper',
             repo: 'https://github.com/AlenSaito1/mywaifulist-scraper',
             language: 'TypeScript',
-            onging: true
+            ongoing: true
         },
         {
             name: 'WhatsApp-Botto-Xre',
             homepage: 'https://github.com/SomnathDas/Whatsapp-Botto-Xre#readme',
             repo: 'https://github.com/SomnathDas/Whatsapp-Botto-Xre',
             language: 'TypeScript',
-            onging: true
+            ongoing: true
         }
     ]
 }

@@ -2,7 +2,7 @@
 
 ![Me](https://64.media.tumblr.com/d339fdb816b5f1313c83b5c3419802fe/3dd5af4664380a43-9a/s500x750/8a7ae425649480fc104aae9b2124082b297d88af.gifv)
 
-###  Totally Me ⬆
+### Me ⬆
 </div>
 
 ## About Me 🎋
@@ -14,6 +14,7 @@ export default class ME implements IUser {
     public static firstName = 'Alen'
     public static lastName = 'Yohannan'
     public static username = 'AlenSaito1'
+    public static website = 'https://alenyohannan.xyz'
     public static aliases = ['Ban Takahiro']
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'C', 'EJS', 'Express', 'NoSQL']
     public static info = {

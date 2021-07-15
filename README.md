@@ -7,8 +7,6 @@
 
 ## About Me 🎋 
 
-<img src="https://next-github-tau.vercel.app/api/card?username=alensaito1" align=right />
-
 ```TypeScript
 import { contact, IUser } from './github'
 
@@ -79,7 +77,11 @@ export default class ME implements IUser {
     ]
 }
 
-
 ```
+
+## Stats 📈
+
+[![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=alensaito1)](https://github.com/AlenSaito1/next-github/)
+
 
 

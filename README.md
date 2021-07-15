@@ -36,25 +36,32 @@ export default class ME implements IUser {
     }
     public static projects = [
         {
-            name: 'Wa-Sticker-Fomatter',
-            homepage: 'https://www.npmjs.com/package/wa-sticker-formatter',
-            repo: 'https://github.com/AlenSaito1/wa-sticker-formatter',
-            language: 'TypeScript',
-            ongoing: true
+            name: 'Next-Github-Stats',
+            desc: 'Github Dynamic Stats Generator & More',
+            homepage: 'https://github.com/AlenSaito1/next-github',
+            repo: 'https://github.com/AlenSaito1/next-github',
+            language: 'TypeScript'
         },
         {
-            name: 'mywaifulist-scraper',
-            homepage: 'https://www.npmjs.com/package/mywaifulist-scraper',
-            repo: 'https://github.com/AlenSaito1/mywaifulist-scraper',
-            language: 'TypeScript',
-            ongoing: true
+            name: 'Spotifydll-Core',
+            desc: 'Spotify Track & Playlist Fetcher',
+            homepage: 'https://www.npmjs.com/package/spotifydl-core',
+            repo: 'https://github.com/AlenSaito1/spotifydl-core',
+            language: 'TypeScript'
         },
         {
-            name: 'WhatsApp-Botto-Xre',
-            homepage: 'https://github.com/SomnathDas/Whatsapp-Botto-Xre#readme',
-            repo: 'https://github.com/SomnathDas/Whatsapp-Botto-Xre',
-            language: 'TypeScript',
-            ongoing: true
+            name: 'Fubuki',
+            desc: 'Github GraphQL API Wrapper',
+            homepage: 'https://www.npmjs.com/package/fubuki',
+            repo: 'https://github.com/AlenSaito1/fubuki',
+            language: 'TypeScript'
+        },
+        {
+            name: 'Wyndon',
+            desc: 'Minimalist Modern Middleware Framework',
+            homepage: 'https://www.npmjs.com/package/wyndon',
+            repo: 'https://github.com/AlenSaito1/wyndon',
+            language: 'TypeScript'
         }
     ]
 }
@@ -62,6 +69,5 @@ export default class ME implements IUser {
 
 ```
 ## Stats 📈
-![Well](https://github-readme-stats.vercel.app/api?username=alensaito1&theme=dark&show_icons=true)
-## Top Languages 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alensaito1&theme=dark)
+[![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=alensaito1)](https://github.com/AlenSaito1/next-github/)
+

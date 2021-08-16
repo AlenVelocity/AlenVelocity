@@ -83,5 +83,6 @@ export default class ME implements IUser {
 
 [![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=alensaito1)](https://github.com/AlenSaito1/next-github/)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alensaito1)](https://git.io/streak-stats)
 
 

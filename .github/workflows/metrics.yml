@@ -62,11 +62,6 @@ jobs:
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://alenyohannan.xyz
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_traffic: yes

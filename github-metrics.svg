@@ -1675,19 +1675,19 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 1160 edited files from 1570 commits
+            estimation from 1216 edited files from 1639 commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.81288145776398" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="226.81288145776398" y="0" width="187.97047983998007" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="414.783361297744" y="0" width="42.11588622758878" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="456.8992475253328" y="0" width="1.5819735791270708" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="458.48122110445985" y="0" width="1.35447271821399" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="459.8356938226738" y="0" width="0.16430617732611388" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.99155869788947" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="234.99155869788947" y="0" width="181.1131240219368" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="416.10468271982626" y="0" width="40.91213644245816" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="457.01681916228443" y="0" width="1.5219896801116577" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="458.53880884239607" y="0" width="1.3031149990836164" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="459.8419238414797" y="0" width="0.15807615852025209" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2795,7 +2795,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tokio-rs/tokio</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2837,7 +2837,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supabase/supabase</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3451,7 +3451,7 @@ Not only is he stuck with a useless deity turned party archpriest, the pair also
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2021, 06:28:17 (timezone Asia/Kolkata) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 29 Nov 2021, 07:33:15 (timezone Asia/Kolkata) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

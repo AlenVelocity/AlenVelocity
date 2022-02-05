@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/empty</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1524,7 +1524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrajjwalDatir/flexTreeBE</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FOSS alternative to https://linktr.ee/</div>
@@ -2161,7 +2161,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2022, 07:47:23 (timezone Asia/Kolkata) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 5 Feb 2022, 08:46:06 (timezone Asia/Kolkata) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

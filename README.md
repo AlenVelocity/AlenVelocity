@@ -1,6 +1,4 @@
 <img align="left" width="480" alt="metrics" src="/github-metrics.svg">
-<a align="left" href='https://ko-fi.com/O4O57IMSE' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 <img align="right" alt="count" src="https://count.getloli.com/get/@:alensaito1?theme=rule34">
 
 

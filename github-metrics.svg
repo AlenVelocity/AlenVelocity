@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6521 Commits
+                            6522 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -334,20 +334,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1444 edited files from 1713 commits</small>
+                <small>estimation from 1444 edited files from 1714 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.555819453157" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="334.555819453157" y="0" width="33.53480403367271" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="368.0906234868297" y="0" width="30.963612367783256" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="399.054235854613" y="0" width="30.793179091644298" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="429.8474149462573" y="0" width="17.18084963671138" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="447.0282645829687" y="0" width="8.875459780174292" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="455.90372436314294" y="0" width="2.2068170755234053" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="458.11054143866636" y="0" width="1.8894585613336212" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.33669039763845" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="334.33669039763845" y="0" width="33.51283923883844" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="367.8495296364769" y="0" width="31.07430313677824" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="398.9238327732551" y="0" width="30.943331665015368" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="429.8671644382705" y="0" width="17.16959643728997" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="447.03676087556045" y="0" width="8.869646486828799" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="455.9064073623892" y="0" width="2.205371643361286" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="458.1117790057505" y="0" width="1.8882209942494101" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -364,15 +364,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Rust
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1704,6 +1704,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Synthesized-Infinity/Ethereal</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#81e002d</div>
+                                        <div class="message">fix(): index expr not working</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
@@ -1774,26 +1794,6 @@
                                     <div class="commit">
                                         <div class="sha">#5dd79b5</div>
                                         <div class="message">feat(std): add `sleep()` function to std:util</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Synthesized-Infinity/Ethereal-Docs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1cf34c2</div>
-                                        <div class="message">chore(): update `include` docs</div>
                                     </div>
                                 </div>
                             </section>
@@ -2207,7 +2207,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2022, 16:45:22 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 12 Mar 2022, 17:58:36 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

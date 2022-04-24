@@ -1502,7 +1502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>riimuru/Manga-api</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source Manga api for manganato.com built with Express</div>
@@ -1549,7 +1549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hivedb/hive</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight and blazing fast key-value database written in pure Dart.</div>
@@ -2188,7 +2188,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2022, 02:46:48 (timezone Asia/Kolkata) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 03:48:54 (timezone Asia/Kolkata) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

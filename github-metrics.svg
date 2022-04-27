@@ -1566,7 +1566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hivedb/hive</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight and blazing fast key-value database written in pure Dart.</div>
@@ -2199,7 +2199,7 @@ Not only is he stuck with a useless deity turned party archpriest, the pair also
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 15:52:51 (timezone Asia/Kolkata) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 16:46:59 (timezone Asia/Kolkata) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

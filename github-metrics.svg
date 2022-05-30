@@ -1513,7 +1513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neon-bindings/neon</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust bindings for writing safe and fast native Node.js modules.</div>
@@ -1566,7 +1566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samizdatco/skia-canvas</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A canvas environment for Node.js</div>
@@ -2221,7 +2221,7 @@ Not only is he stuck with a useless deity turned party archpriest, the pair also
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2022, 07:20:13 (timezone Asia/Kolkata) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 30 May 2022, 09:08:51 (timezone Asia/Kolkata) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

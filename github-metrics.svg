@@ -1565,7 +1565,7 @@
                                         <span>starred May 08 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">Authentication and user management for the passkey era</div>
+                                <div class="field description">Open authentication and user management for the passkey era</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2050,7 +2050,7 @@ Co-authored-by: PrajjwalDatir &lt;in.prajj@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2023, 13:49:48 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2023, 14:45:28 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

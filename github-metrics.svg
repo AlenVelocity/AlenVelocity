@@ -1462,7 +1462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>llvm/llvm-project</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</div>
@@ -2046,7 +2046,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Nov 2023, 13:49:36 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2023, 14:45:16 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

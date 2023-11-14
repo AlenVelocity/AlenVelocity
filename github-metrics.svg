@@ -1446,7 +1446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>llvm/llvm-project</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</div>
@@ -1840,7 +1840,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 95.8k out of 125m users</span>
+                                    <span class="gh">ranked 95.8k out of 123m users</span>
                                 </div>
                                 <div class="text">Published 136 public repositories</div>
                             </div>
@@ -1923,7 +1923,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 28.1k out of 125m users</span>
+                                    <span class="gh">ranked 28.1k out of 123m users</span>
                                 </div>
                                 <div class="text">Followed by 284 users</div>
                             </div>
@@ -2034,7 +2034,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2023, 14:45:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2023, 15:47:18 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

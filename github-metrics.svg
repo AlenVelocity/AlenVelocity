@@ -1451,7 +1451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jordienr/jordienric.com</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1818,7 +1818,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 84k out of 128m users</span>
+                                    <span class="gh">ranked 89.3k out of 128m users</span>
                                 </div>
                                 <div class="text">Published 143 public repositories</div>
                             </div>
@@ -2012,7 +2012,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jan 2024, 18:00:13 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jan 2024, 18:49:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

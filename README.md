@@ -1,5 +1,5 @@
 
-<img align="right"  width="350" alt="logo" src="https://github.com/AlenVelocity/AlenVelocity/assets/66544823/a51db6a1-913d-420b-a5f8-053830022baf">
+<img align="right"  width="320" alt="logo" src="https://github.com/AlenVelocity/AlenVelocity/assets/66544823/a51db6a1-913d-420b-a5f8-053830022baf">
 
 <img align="left" width="480" alt="metrics" src="/github-metrics.svg">
 

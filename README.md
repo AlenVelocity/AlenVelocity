@@ -1,4 +1,8 @@
+
+<img align="right"  width="400" alt="logo" src="https://github.com/AlenVelocity/AlenVelocity/assets/66544823/a51db6a1-913d-420b-a5f8-053830022baf">
+
 <img align="left" width="480" alt="metrics" src="/github-metrics.svg">
+
 <img align="right" alt="count" src="https://count.getloli.com/get/@:alensaito1?theme=rule34">
 
 

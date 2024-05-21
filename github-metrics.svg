@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kndgy/NieR-Automata-Design-System</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Nier Automata resources/information wiki website with its native UI Design, and React UI library based on its design</div>
@@ -1844,7 +1844,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 78.9k out of 135m users</span>
+                                    <span class="gh">ranked 78.9k out of 137m users</span>
                                 </div>
                                 <div class="text">Published 158 public repositories</div>
                             </div>
@@ -1927,7 +1927,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29k out of 135m users</span>
+                                    <span class="gh">ranked 29k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 302 users</div>
                             </div>
@@ -2038,7 +2038,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2024, 10:46:27 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 May 2024, 11:53:04 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

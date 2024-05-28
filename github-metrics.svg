@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sarthakjdev/wapi.js</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wapi.js is a node library built for developing WhatsApp cloud API based chat bots in a user friendly way.</div>
@@ -1843,7 +1843,7 @@ feat: Add 'whoknows' command to retrieve artist popularity in a group</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 78.2k out of 131m users</span>
+                                    <span class="gh">ranked 78.2k out of 135m users</span>
                                 </div>
                                 <div class="text">Published 159 public repositories</div>
                             </div>
@@ -1926,7 +1926,7 @@ feat: Add 'whoknows' command to retrieve artist popularity in a group</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.3k out of 131m users</span>
+                                    <span class="gh">ranked 29.3k out of 135m users</span>
                                 </div>
                                 <div class="text">Followed by 300 users</div>
                             </div>
@@ -2037,7 +2037,7 @@ feat: Add 'whoknows' command to retrieve artist popularity in a group</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2024, 00:43:47 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2024, 01:47:50 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

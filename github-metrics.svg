@@ -1834,7 +1834,7 @@ Improve the `handleTextMessage` method in `MessageHandler.ts` to enhance the onb
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 78.3k out of 125m users</span>
+                                    <span class="gh">ranked 78.3k out of 137m users</span>
                                 </div>
                                 <div class="text">Published 159 public repositories</div>
                             </div>
@@ -1917,7 +1917,7 @@ Improve the `handleTextMessage` method in `MessageHandler.ts` to enhance the onb
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.5k out of 125m users</span>
+                                    <span class="gh">ranked 29.5k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 299 users</div>
                             </div>
@@ -2028,7 +2028,7 @@ Improve the `handleTextMessage` method in `MessageHandler.ts` to enhance the onb
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2024, 20:49:17 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 May 2024, 21:50:15 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

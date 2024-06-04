@@ -1858,7 +1858,7 @@ Simplify the compatibility command output format by removing unnecessary informa
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 78.5k out of 137m users</span>
+                                    <span class="gh">ranked 78.5k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 159 public repositories</div>
                             </div>
@@ -1974,7 +1974,7 @@ Simplify the compatibility command output format by removing unnecessary informa
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.3k out of 137m users</span>
+                                    <span class="gh">ranked 29.3k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 301 users</div>
                             </div>
@@ -2052,7 +2052,7 @@ Simplify the compatibility command output format by removing unnecessary informa
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2024, 18:49:25 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2024, 19:46:03 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

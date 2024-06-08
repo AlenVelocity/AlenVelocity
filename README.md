@@ -10,3 +10,6 @@
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
 
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://images2.alphacoders.com/130/thumb-1920-1301855.jpg');]{x0000}$}

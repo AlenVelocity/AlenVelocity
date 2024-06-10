@@ -1855,7 +1855,7 @@ Refactor the setPhone function in user.ts to improve code readability and mainta
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 78.6k out of 138m users</span>
+                                    <span class="gh">ranked 78.6k out of 135m users</span>
                                 </div>
                                 <div class="text">Published 159 public repositories</div>
                             </div>
@@ -2007,7 +2007,7 @@ Refactor the setPhone function in user.ts to improve code readability and mainta
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.2k out of 138m users</span>
+                                    <span class="gh">ranked 29.2k out of 135m users</span>
                                 </div>
                                 <div class="text">Followed by 303 users</div>
                             </div>
@@ -2049,7 +2049,7 @@ Refactor the setPhone function in user.ts to improve code readability and mainta
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2024, 10:46:58 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jun 2024, 11:54:56 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

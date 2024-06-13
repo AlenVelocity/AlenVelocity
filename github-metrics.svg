@@ -1878,7 +1878,7 @@ Refactor the MessageHandler.ts file to handle the selection of past tasks. This 
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 78.8k out of 138m users</span>
+                                    <span class="gh">ranked 78.8k out of 132m users</span>
                                 </div>
                                 <div class="text">Published 159 public repositories</div>
                             </div>
@@ -2030,7 +2030,7 @@ Refactor the MessageHandler.ts file to handle the selection of past tasks. This 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.4k out of 138m users</span>
+                                    <span class="gh">ranked 29.4k out of 132m users</span>
                                 </div>
                                 <div class="text">Followed by 302 users</div>
                             </div>
@@ -2072,7 +2072,7 @@ Refactor the MessageHandler.ts file to handle the selection of past tasks. This 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2024, 23:53:20 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jun 2024, 00:43:28 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

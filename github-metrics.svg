@@ -1557,7 +1557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KirillTregubov/OverBuddy</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Windows desktop app to easily customize the Overwatch™ menu background. Built with Tauri (Rust) and React (TypeScript).</div>
@@ -1851,7 +1851,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 78.2k out of 139m users</span>
+                                    <span class="gh">ranked 78.2k out of 136m users</span>
                                 </div>
                                 <div class="text">Published 160 public repositories</div>
                             </div>
@@ -2003,7 +2003,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.6k out of 139m users</span>
+                                    <span class="gh">ranked 29.6k out of 136m users</span>
                                 </div>
                                 <div class="text">Followed by 302 users</div>
                             </div>
@@ -2045,7 +2045,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2024, 13:51:07 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2024, 14:48:10 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

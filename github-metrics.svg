@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8275 Commits
+                            8283 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    576k added, 124k removed
+                                    662k added, 144k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    816 views in last two weeks
+                                    818 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rudrodip/theme-toggle-effect</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">theme toggle effect using view transitions api</div>
@@ -1695,8 +1695,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#283c5a0</div>
-                                        <div class="message">feat: Update npm dependencies and add html-to-image package</div>
+                                        <div class="sha">#eec80cc</div>
+                                        <div class="message">feat: Add title and text to share functionality</div>
                                     </div>
                                 </div>
                             </section>
@@ -1715,27 +1715,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#06432c9</div>
-                                        <div class="message">feat: Update npm dependencies and add html-to-image package
-
-The code changes in the package.json and package-lock.json files update the npm dependencies to include the latest stable versions of various packages. Additionally, the html-to-image package is added as a new dependency.
-
-Recent user commits:
-- feat: sharable image
-- feat: leaderboard
-- feat: Enable lazy loading for images and update npm dependencies
-- feat: Add lazy loading for images and update npm dependencies
-
-Recent repository commits:
-- feat: leaderboard
-- feat: Enable lazy loading for images and update npm dependencies
-- feat: Add lazy loading for images and update npm dependencies
-- chore: Update link button in Home page to use Button component
-- chore: Add Prisma database generation script and update prebuild command
-- chore: Add global box-sizing rule and create Logo component
-- chore: shadcn stuff
-- chore(): add prettier
-- Initial commit from Create Next App</div>
+                                        <div class="sha">#d28f858</div>
+                                        <div class="message">feat: Update image dimensions and styles for Share component</div>
                                     </div>
                                 </div>
                             </section>
@@ -1754,8 +1735,8 @@ Recent repository commits:
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b576073</div>
-                                        <div class="message">refactor: Improve pagination logic in LeaderboardPage component</div>
+                                        <div class="sha">#01195fd</div>
+                                        <div class="message">feat: Update image dimensions and styles for Share component</div>
                                     </div>
                                 </div>
                             </section>
@@ -1774,8 +1755,8 @@ Recent repository commits:
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eb86c88</div>
-                                        <div class="message">feat: sharable image</div>
+                                        <div class="sha">#8ae2cf4</div>
+                                        <div class="message">feat: Add support for lazy loading images and update image domains</div>
                                     </div>
                                 </div>
                             </section>
@@ -1794,8 +1775,8 @@ Recent repository commits:
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#83dc054</div>
-                                        <div class="message">refactor: Improve pagination logic in LeaderboardPage component</div>
+                                        <div class="sha">#484a328</div>
+                                        <div class="message">feat: Update html-to-image package and add canvas support</div>
                                     </div>
                                 </div>
                             </section>
@@ -1886,7 +1867,7 @@ Recent repository commits:
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 78.3k out of 137m users</span>
+                                    <span class="gh">ranked 78.3k out of 139m users</span>
                                 </div>
                                 <div class="text">Published 160 public repositories</div>
                             </div>
@@ -1966,7 +1947,7 @@ Recent repository commits:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.59 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.07 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1988,7 +1969,7 @@ Recent repository commits:
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 589 times</div>
+                                <div class="text">Repositories have been deployed 597 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2063,7 +2044,7 @@ Recent repository commits:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2024, 16:43:06 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2024, 18:00:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

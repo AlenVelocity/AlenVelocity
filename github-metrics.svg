@@ -1849,7 +1849,7 @@ This feature enhancement expands the integration options for users and improves 
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 75.8k out of 140m users</span>
+                                    <span class="gh">ranked 75.8k out of 139m users</span>
                                 </div>
                                 <div class="text">Published 164 public repositories</div>
                             </div>
@@ -2001,7 +2001,7 @@ This feature enhancement expands the integration options for users and improves 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 29.6k out of 140m users</span>
+                                    <span class="gh">ranked 29.6k out of 139m users</span>
                                 </div>
                                 <div class="text">Followed by 307 users</div>
                             </div>
@@ -2043,7 +2043,7 @@ This feature enhancement expands the integration options for users and improves 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2024, 20:48:48 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jul 2024, 21:53:05 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -8,4 +8,4 @@
 
 <img src="https://discord-readme-badge.vercel.app/api?id=577808661485977620" alt="Discord" align="right" width=320/>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" alt="spotify" align="right"/>

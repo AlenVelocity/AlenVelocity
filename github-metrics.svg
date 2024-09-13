@@ -1538,7 +1538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>franken-ui/ui</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.</div>
@@ -1867,7 +1867,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 72.9k out of 142m users</span>
+                                    <span class="gh">ranked 72.9k out of 144m users</span>
                                 </div>
                                 <div class="text">Published 169 public repositories</div>
                             </div>
@@ -1986,7 +1986,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 30.3k out of 142m users</span>
+                                    <span class="gh">ranked 30.3k out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 308 users</div>
                             </div>
@@ -2028,7 +2028,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2024, 16:36:15 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2024, 17:38:44 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -1885,7 +1885,7 @@ fixes + frontend</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 70.5k out of 152m users</span>
+                                    <span class="gh">ranked 70.5k out of 153m users</span>
                                 </div>
                                 <div class="text">Published 176 public repositories</div>
                             </div>
@@ -2004,7 +2004,7 @@ fixes + frontend</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 31.5k out of 152m users</span>
+                                    <span class="gh">ranked 31.5k out of 153m users</span>
                                 </div>
                                 <div class="text">Followed by 316 users</div>
                             </div>
@@ -2046,7 +2046,7 @@ fixes + frontend</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2025, 20:27:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2025, 21:04:33 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
